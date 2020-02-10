@@ -34,6 +34,6 @@
     "passport-jwt": "^4.0.0",
     "query-string": "^6.10.1",
     "react-cookies": "^0.1.1",
-    "validator": "^10.9.0"
+    "validator": "^12.2.0"
   }
 }
